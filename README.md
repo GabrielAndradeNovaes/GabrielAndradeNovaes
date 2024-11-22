@@ -1,4 +1,4 @@
-## Olá, eu sou Gabriel Andrade Novaes.
+## Meu nome é Gabriel Andrade, sou estudante de Sistemas de Informação no CEFET-RJ, atualmente no 4º período
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielAndradeNovaes&show_icons=true&theme=radical)
