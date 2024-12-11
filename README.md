@@ -36,8 +36,6 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GabrielAndradeNovaes" alt="GitHub Streak" /></a>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GabrielAndradeNovaes)](https://git.io/streak-stats)
-
 ###
 
 <h2 align="left">Social Media</h2>
