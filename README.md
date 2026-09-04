@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Gabriel Andrade, sou estudante de Sistemas de Informação no CEFET-RJ, atualmente no 4º período.</p>
+<p align="left">Meu nome é Gabriel Andrade, sou estudante de Sistemas de Informação no CEFET-RJ, atualmente no 8º período.</p>
 
 ###
 
